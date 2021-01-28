@@ -1,2 +1,2 @@
 # bshop
- what bshop does
+ I love bshop
